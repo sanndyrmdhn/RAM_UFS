@@ -30,5 +30,12 @@ The Java runtime heap starts at 16 MB per app (light on boot) and can grow up to
 - Magisk 26 or higher
 - ZRAM enabled (recommended)
 
+## Download
+
+- Download from the [release page](https://github.com/sanndyrmdhn/RAM_UFS/releases)
+- Download and flash the zip in magisk manager ( Not tested in KSU and APatch )
+- Reboot the device
+
+
 ## Notes
 - Tested on Xiaomi/Redmi devices running HyperOS; may work on other ROMs with minor adjustments
